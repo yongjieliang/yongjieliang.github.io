@@ -22,7 +22,7 @@ repository               : "yongjieliang/yongjieliang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "profile.png"
   name             : "Yongjie Liang 梁永杰"
   pronouns         : # example: "He/his"  
   bio              : "PhD Student"
