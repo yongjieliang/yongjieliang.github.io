@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- -->
-I am a PhD student at the Life Science Institute of Guangxi Medical University in Nanning, China. I hold a MSc degree received in 2025 from Guilin University of Electronic Technology. My research interests lie at the intersection of computational science and life sciences, specifically focusing on medical image analysis, behavioral equivalence and data mining. I am passionate about leveraging computational methods to address complex biological and medical challenges. Welcome to explore my work and feel free to reach out for potential collaborations.
-
+I am a PhD student at the Life Science Institute of Guangxi Medical University in Nanning, China. I earned my MSc degree in 2025 from Guilin University of Electronic Technology. My research interests lie at the intersection of computational science and life sciences, with a specific focus on medical image analysis, behavioral equivalence, and data mining. I am passionate about leveraging computational methods to address complex biological and medical challenges. Please feel free to explore my work and contact me for potential collaborations.
 
 Education
 ======
@@ -17,7 +16,7 @@ Education
 
 Publications
 ======
-The following publications are sorted by publication time. <div class="wordwrap">You can also find my articles on my <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.</div>
+The following publications are sorted by their publication date. You can also find my articles on my <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
 * Chaofeng Yang#, Yongjie Liang#, Fan Qin, Yulong Cao, Peiyuan Wang, Jiaying Fan, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00202-3"> A survival prediction network based on multi-scale hypergraph enhancement and cross-modal refinement</a>[J]. Journal of King Saud University Computer and Information Sciences. 37, 177 (2025).
 * Fan Qin#, Yongjie Liang#, Chaofeng Yang, Yulong Cao, Jiaying Fan, Peiyuan Wang, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00106-2"> Medical image segmentation network based on multi-scale cross-attention and wavelet transform</a>[J]. Journal of King Saud University Computer and Information Sciences. 37, 97 (2025).
