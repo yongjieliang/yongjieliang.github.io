@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-The following publications are sorted by their publication date. You can also find my articles on my <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
+The following publications are sorted by their publication date. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
 * Chaofeng Yang#, Yongjie Liang#, Fan Qin, Yulong Cao, Peiyuan Wang, Jiaying Fan, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00202-3"> A survival prediction network based on multi-scale hypergraph enhancement and cross-modal refinement</a>[J]. Journal of King Saud University Computer and Information Sciences. 37, 177 (2025).
 * Fan Qin#, Yongjie Liang#, Chaofeng Yang, Yulong Cao, Jiaying Fan, Peiyuan Wang, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00106-2"> Medical image segmentation network based on multi-scale cross-attention and wavelet transform</a>[J]. Journal of King Saud University Computer and Information Sciences. 37, 97 (2025).
