@@ -16,14 +16,14 @@ Education
 
 Publications
 ======
-The following publications are sorted by their publication date. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
+The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
-* Yongjie Liang#, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1002/cpe.70310"> Automated Bisimulation-Based Similarity Measurement in Heterogeneous Information Networks</a>[J]. Concurrency and Computation: Practice and Experience, 2025.
-* Chaofeng Yang#, Yongjie Liang#, Fan Qin, Yulong Cao, Peiyuan Wang, Jiaying Fan, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00202-3"> A survival prediction network based on multi-scale hypergraph enhancement and cross-modal refinement</a>[J]. Journal of King Saud University Computer and Information Sciences, 2025.
-* Fan Qin#, Yongjie Liang#, Chaofeng Yang, Yulong Cao, Jiaying Fan, Peiyuan Wang, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00106-2"> Medical image segmentation network based on multi-scale cross-attention and wavelet transform</a>[J]. Journal of King Saud University Computer and Information Sciences, 2025.
-* 吴任舒#, 梁永杰, 韦必忠*, 曹俊月. <a href="https://link.cnki.net/urlid/45.1351.tn.20250604.1716.010"> 基于多模态医学图像融合的癌症生存预测方法</a>[J]. 桂林电子科技大学学报, 2025.
-* Yongjie Liang#, Wujie Hu, Jinzhao Wu*. <a href="https://doi.org/10.1016/j.future.2025.107749"> K-bisimulation: A novel approach for simplifying heterogeneous information networks</a>[J]. Future Generation Computer Systems, 2025.  
-* Yongjie Liang#, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1117/12.3057528"> MTOClus: multitype objects clustering in heterogeneous information networks</a>[C]. International Conference on Communications, Information System, and Data Science (CISDS), 2025.
+* **Yongjie Liang#**, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1002/cpe.70310"> Automated Bisimulation-Based Similarity Measurement in Heterogeneous Information Networks</a>[J]. Concurrency and Computation: Practice and Experience, 2025.
+* Chaofeng Yang#, **Yongjie Liang#**, Fan Qin, Yulong Cao, Peiyuan Wang, Jiaying Fan, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00202-3"> A survival prediction network based on multi-scale hypergraph enhancement and cross-modal refinement</a>[J]. Journal of King Saud University Computer and Information Sciences, 2025.
+* Fan Qin#, **Yongjie Liang#**, Chaofeng Yang, Yulong Cao, Jiaying Fan, Peiyuan Wang, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00106-2"> Medical image segmentation network based on multi-scale cross-attention and wavelet transform</a>[J]. Journal of King Saud University Computer and Information Sciences, 2025.
+* 吴任舒#, **梁永杰**, 韦必忠*, 曹俊月. <a href="https://link.cnki.net/urlid/45.1351.tn.20250604.1716.010"> 基于多模态医学图像融合的癌症生存预测方法</a>[J]. 桂林电子科技大学学报, 2025.
+* **Yongjie Liang#**, Wujie Hu, Jinzhao Wu*. <a href="https://doi.org/10.1016/j.future.2025.107749"> K-bisimulation: A novel approach for simplifying heterogeneous information networks</a>[J]. Future Generation Computer Systems, 2025.  
+* **Yongjie Liang#**, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1117/12.3057528"> MTOClus: multitype objects clustering in heterogeneous information networks</a>[C]. International Conference on Communications, Information System, and Data Science (CISDS), 2025.
 
 
 <!--
