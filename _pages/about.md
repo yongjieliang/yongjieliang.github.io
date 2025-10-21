@@ -23,7 +23,7 @@ The following publications are sorted by their publication date. You can also fi
 * Fan Qin#, Yongjie Liang#, Chaofeng Yang, Yulong Cao, Jiaying Fan, Peiyuan Wang, Bizhong Wei*. <a href="https://doi.org/10.1007/s44443-025-00106-2"> Medical image segmentation network based on multi-scale cross-attention and wavelet transform</a>[J]. Journal of King Saud University Computer and Information Sciences, 2025.
 * 吴任舒#, 梁永杰, 韦必忠*, 曹俊月. <a href="https://link.cnki.net/urlid/45.1351.tn.20250604.1716.010"> 基于多模态医学图像融合的癌症生存预测方法</a>[J]. 桂林电子科技大学学报, 2025.
 * Yongjie Liang#, Wujie Hu, Jinzhao Wu*. <a href="https://doi.org/10.1016/j.future.2025.107749"> K-bisimulation: A novel approach for simplifying heterogeneous information networks</a>[J]. Future Generation Computer Systems, 2025.  
-* Yongjie Liang#, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1117/12.3057528"> MTOClus: multitype objects clustering in heterogeneous information networks</a>[C]. Third International Conference on Communications, Information System, and Data Science (CISDS 2024), 2025.
+* Yongjie Liang#, Wujie Hu, Junjie Wu, Jinzhao Wu*. <a href="https://doi.org/10.1117/12.3057528"> MTOClus: multitype objects clustering in heterogeneous information networks</a>[C]. Third International Conference on Communications, Information System, and Data Science (CISDS), 2025.
 
 
 <!--
