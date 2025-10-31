@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- -->
-I am a PhD student at the Life Science Institute of Guangxi Medical University in Nanning, China. I earned my MSc degree in 2025 from Guilin University of Electronic Technology. My research interests lie at the intersection of computational science and life sciences, with a specific focus on medical image analysis, behavioral equivalence, and data mining. I am passionate about leveraging computational methods to address complex biological and medical challenges. Please feel free to explore my work and contact me for potential collaborations.
+I am a PhD student at the Life Sciences Institute of Guangxi Medical University in Nanning, China. I earned my MSc degree in 2025 from Guilin University of Electronic Technology. My research interests lie at the intersection of computational science and life sciences, with a specific focus on medical image analysis, behavioral equivalence, and data mining. I am passionate about leveraging computational methods to address complex biological and medical challenges. Please feel free to explore my work and contact me for potential collaborations.
 
 Education
 ======
