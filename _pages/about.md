@@ -18,7 +18,7 @@ Publications
 ======
 The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
-* Junjie Wu; **Yongjie Liang**; Jinzhao Wu*. <a href="https://doi.org/10.1177/30504554261426191"> Heterogeneous Information Network Recommendation Driven by Automatic Meta-Path Identification</a>[J]. The European Journal on Artificial Intelligence, 2026.
+* Junjie Wu#; **Yongjie Liang#**; Jinzhao Wu*. <a href="https://doi.org/10.1177/30504554261426191"> Heterogeneous Information Network Recommendation Driven by Automatic Meta-Path Identification</a>[J]. The European Journal on Artificial Intelligence, 2026.
 * Yulong Cao#, **Yongjie Liang#**, Chaofeng Yang, Fan Qin, Jiaying Fan, Peiyuan Wang, Xiaojie Huang, Bizhong Wei*. <a href="https://doi.org/10.1109/acai68217.2025.11406691"> Frequency-Enhanced and Hypergraph-Aware Cross-Modal Attention for Cancer Survival Prediction</a>[C]. International Conference on Algorithms, Computing and Artificial Intelligence (ACAI), 2026.
 * **Yongjie Liang#**, Qinggeng Jin, Wujie Hu, Junjie Wu, Yu Liang, Jinzhao Wu, Bizhong Wei*. <a href="https://doi.org/10.1109/acai68217.2025.11406308"> Self-Adaptive Density Peak Clustering through Aggregation of Multiple Similarity Matrices in Heterogeneous Information Networks</a>[C]. International Conference on Algorithms, Computing and Artificial Intelligence (ACAI), 2026.
 * **梁永杰#**. <a href="http://dx.doi.org/10.27049/d.cnki.ggldc.2025.000761"> 异质信息网络的K互模拟研究</a>[D]. 桂林电子科技大学, 2025.
