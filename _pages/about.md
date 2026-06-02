@@ -11,7 +11,7 @@ I am a Ph.D. student at the Life Sciences Institute of Guangxi Medical Universit
 
 Education
 ======
-* 2025-09 to present Ph.D. in Guangxi Medical University Directed by <a href="https://yuexiangli.github.io/"> Yuexiang Li</a>
+* 2025-09 to present Ph.D. in Guangxi Medical University Directed by <a href="https://fds.cityu.edu.mo/members/540"> Yuexiang Li</a>
 * 2022-09 to 2025-06 M.Sc. in Guilin University of Electronic Technology Directed by <a href="https://baike.sogou.com/m/fullLemma?lid=8744665"> Jinzhao Wu</a>
 
 Publications
