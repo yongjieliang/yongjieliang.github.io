@@ -23,7 +23,7 @@ The following articles have been recently accepted but have not yet been publish
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Jiaqi Zhao#, **Yongjie Liang#**, Ziwei Zhu, Yu Wang, Cheng Lu*, Xiaohui Duan*, Yuexiang Li*. Towards Clinically Deployable Cross-Center Head and Neck Cancer Detection: A Multi-Level Domain Alignment Approach[J]. Frontiers in Artificial Intelligence, 2026.
-* Peiyuan Wang#, **Yongjie Liang#**, Bizhong Wei*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
+* Peiyuan Wang#, **Yongjie Liang#**, Bizhong Wei\*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
 
 Publications
 ======
