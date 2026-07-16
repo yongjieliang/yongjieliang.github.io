@@ -14,6 +14,17 @@ Education
 * 2025-09 to present Ph.D. in Guangxi Medical University Directed by <a href="https://fds.cityu.edu.mo/members/540"> Yuexiang Li</a>
 * 2022-09 to 2025-06 M.Sc. in Guilin University of Electronic Technology Directed by <a href="https://baike.sogou.com/m/fullLemma?lid=8744665"> Jinzhao Wu</a>
 
+News
+======
+The following articles have been recently accepted but have not yet been published.
+
+* Jiaying Fan#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. HEDS-Net: A Hybrid State-Space Architecture with Axial Bridge and Progressive Weighting for Medical Image Segmentation[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2026.
+* Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2026.
+* Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision, 2026.
+* Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision, 2026.
+* Jiaqi Zhao#, **Yongjie Liang#**, Ziwei Zhu, Yu Wang, Cheng Lu*, Xiaohui Duan*, Yuexiang Li*. Towards Clinically Deployable Cross-Center Head and Neck Cancer Detection: A Multi-Level Domain Alignment Approach[J]. Frontiers in Artificial Intelligence, 2026.
+* Peiyuan Wang#, **Yongjie Liang#**, Bizhong Wei#*, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
+
 Publications
 ======
 The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
