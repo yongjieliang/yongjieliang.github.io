@@ -25,6 +25,7 @@ The following articles have been recently accepted but have not yet been publish
 * Jiaqi Zhao#, **Yongjie Liang#**, Ziwei Zhu, Yu Wang, Cheng Lu\*, Xiaohui Duan\*, Yuexiang Li\*. Towards Clinically Deployable Cross-Center Head and Neck Cancer Detection: A Multi-Level Domain Alignment Approach[J]. Frontiers in Artificial Intelligence, 2026.
 * Peiyuan Wang#, **Yongjie Liang#**, Bizhong Wei\*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao\*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
 * Qinggeng Jin#, Wujie Hu, **Yongjie Liang**, Jinzhao Wu\*. Hierarchical Heterogeneous Information Networks and Approximate Reduction under Semantic Controllability[J]. Journal of King Saud University Computer and Information Sciences, 2026.
+* 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
 
 Publications
 ======
