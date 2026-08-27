@@ -22,13 +22,13 @@ The following articles have been recently accepted but have not yet been publish
 * Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
-* Peiyuan Wang#, **Yongjie Liang\*#**, Bizhong Wei\*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao\*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
 * 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
 
 Publications
 ======
 The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
+* Peiyuan Wang#, **Yongjie Liang\*#**, Bizhong Wei\*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao\*. Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation[J]. Journal of King Saud University Computer and Information Sciences, 2026.
 * Qinggeng Jin#, Wujie Hu, **Yongjie Liang**, Jinzhao Wu\*. <a href="https://doi.org/10.1007/s44443-026-01209-0"> Hierarchical heterogeneous information networks and approximate reduction under semantic controllability</a>[J]. Journal of King Saud University Computer and Information Sciences, 2026.
 * Jiaqi Zhao#, **Yongjie Liang#**, Ziwei Zhu, Yu Wang, Cheng Lu\*, Xiaohui Duan\*, Yuexiang Li\*. <a href="https://doi.org/10.3389/frai.2026.1882547"> Towards Clinically Deployable Cross-Center Head and Neck Cancer Detection: A Multi-Level Domain Alignment Approach</a>[J]. Frontiers in Artificial Intelligence, 2026.
 * Junjie Wu#, **Yongjie Liang#**, Jinzhao Wu*. <a href="https://doi.org/10.1177/30504554261426191"> Heterogeneous Information Network Recommendation Driven by Automatic Meta-Path Identification</a>[J]. The European Journal on Artificial Intelligence, 2026.
