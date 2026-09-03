@@ -18,7 +18,7 @@ News
 ======
 The following articles have been recently accepted but have not yet been published. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
-* Wujie Hu#, **Yongjie Liang#**, Wenhu Qin, Yinggun Bi, Gonglin Yuan*. Beyond Meta-Paths: ASHIN A Simple yet Powerful Algebraic Signature for Heterogeneous Information Networks[J]. Information Processing & Management, 2026.
+* Wujie Hu#, **Yongjie Liang**, Wenhu Qin, Yinggun Bi, Gonglin Yuan*. Beyond Meta-Paths: ASHIN A Simple yet Powerful Algebraic Signature for Heterogeneous Information Networks[J]. Information Processing & Management, 2026.
 * Jiaying Fan#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. HEDS-Net: A Hybrid State-Space Architecture with Axial Bridge and Progressive Weighting for Medical Image Segmentation[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
