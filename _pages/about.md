@@ -23,7 +23,7 @@ The following articles have been recently accepted but have not yet been publish
 * Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
-* 韦金妙，黄月君，**梁永杰**，曹俊月\*，陈庆锋\*. 1990—2023年中国肝癌病因谱变迁及NASH相关肝癌负担的性别差异与趋势[J]. 广西医科大学学报, 2026.
+* 韦金妙#，黄月君，**梁永杰**，曹俊月\*，陈庆锋\*. 1990—2023年中国肝癌病因谱变迁及NASH相关肝癌负担的性别差异与趋势[J]. 广西医科大学学报, 2026.
 * 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
 
 Publications
