@@ -18,7 +18,6 @@ News
 ======
 The following articles have been recently accepted but have not yet been published. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
-* Jiaying Fan#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. HEDS-Net: A Hybrid State-Space Architecture with Axial Bridge and Progressive Weighting for Medical Image Segmentation[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
@@ -27,6 +26,7 @@ Publications
 ======
 The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
+* Jiaying Fan#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. <a href="https://doi.org/10.1007/978-3-032-38085-2_24"> HEDS-Net: A Hybrid State-Space Architecture with Axial Bridge and Progressive Weighting for Medical Image Segmentation</a>[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. <a href="https://doi.org/10.1007/978-3-032-38470-6_10"> Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears</a>[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Wujie Hu#, **Yongjie Liang**, Wenhu Qin, Yinggun Bi, Gonglin Yuan*. <a href="https://doi.org/10.1016/j.ipm.2026.105157"> Beyond meta-paths: ASHIN — A unified Algebraic Signature for Heterogeneous Information Networks</a>[J]. Information Processing & Management, 2026.
 * Peiyuan Wang#, **Yongjie Liang\*#**, Bizhong Wei\*#, Chaofeng Yang, Yulong Cao, Fan Qin, Jiaying Fan, Xiaojie Huang, Junyue Cao\*. <a href="https://doi.org/10.1007/s44443-026-01097-4"> Adaptive Wavelet Enhancement and Stratified Feature Fusion for Robust Medical Image Segmentation</a>[J]. Journal of King Saud University Computer and Information Sciences, 2026.
