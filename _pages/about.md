@@ -21,13 +21,13 @@ The following articles have been recently accepted but have not yet been publish
 * Xiaojie Huang#, **Yongjie Liang#**, Junyue Cao#, Yawen Huang, Bizhong Wei*, Yuexiang Li. MKLS-UNet: Multi-Kernel Lightweight Selective U-Net with Adaptive Wave Downsampling for Medical Image Segmentation[C]. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
-* 韦金妙#, 黄月君, **梁永杰**, 曹俊月\*, 陈庆锋\*. 1990—2023年中国肝癌病因谱变迁及非酒精性脂肪性肝炎相关肝癌负担的性别差异与趋势[J]. 广西医科大学学报, 2026.
 * 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
 
 Publications
 ======
 The following publications are listed in order of their publication date. A # symbol indicates the first author, and a * denotes the corresponding author. You can also find my articles on <a href="https://orcid.org/0009-0001-1059-088X"> ORCID</a> or <a href="https://www.webofscience.com/wos/author/record/NAX-7893-2025">WOS</a>.
 
+* 韦金妙#, 黄月君, **梁永杰**, 曹俊月\*, 陈庆锋\*. <a href="https://doi.org/10.16190/j.cnki.45-1211/r.2026.05.012"> 1990—2023年中国肝癌病因谱变迁及非酒精性脂肪性肝炎相关肝癌负担的性别差异与趋势</a>[J]. 广西医科大学学报, 2026.
 * Jiaying Fan#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. <a href="https://doi.org/10.1007/978-3-032-38085-2_24"> HEDS-Net: A Hybrid State-Space Architecture with Axial Bridge and Progressive Weighting for Medical Image Segmentation</a>[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Zijian Xie#, **Yongjie Liang#**, Yawen Huang, Xian Wu, Bizhong Wei, Yuexiang Li*. <a href="https://doi.org/10.1007/978-3-032-38470-6_10"> Det-Y: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears</a>[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.
 * Wujie Hu#, **Yongjie Liang**, Wenhu Qin, Yinggun Bi, Gonglin Yuan*. <a href="https://doi.org/10.1016/j.ipm.2026.105157"> Beyond meta-paths: ASHIN — A unified Algebraic Signature for Heterogeneous Information Networks</a>[J]. Information Processing & Management, 2026.
