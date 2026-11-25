@@ -22,6 +22,7 @@ The following articles have been recently accepted but have not yet been publish
 * Xiaojie Huang#, **Yongjie Liang#**, Junyue Cao#, Yawen Huang, Bizhong Wei*, Yuexiang Li. MKLS-UNet: Multi-Kernel Lightweight Selective U-Net with Adaptive Wave Downsampling for Medical Image Segmentation[C]. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026.
 * Fan Qin#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Dual-Domain Wavelet State-Space Network for Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
 * Chaofeng Yang#, **Yongjie Liang#**, Junyue Cao#, Peiyuan Wang, Bizhong Wei*, Yuexiang Li. Self-Guided Attention Enhanced Cross-Modal Translation and Alignment for Multimodal Cancer Survival Prediction[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2026.
+* Zhongjin Han#, **Yongjie Liang**, Junyue Cao*. A 12-Gene Extracellular Matrix Stiffness Index Predicts Prognosis and Identifies Immune-Excluded Tumors with Increased Sensitivity to Targeted Therapy in Clear Cell Renal Cell Carcinoma[C]. IEEE International Conference on Bioinformatics and Computational Biology (ICBCB), 2027.
 * 张浩然#, **梁永杰**, 韦必忠*. 基于对比学习与深度超图的癌症生存预测模型[J]. 桂林电子科技大学学报, 2026.
 
 Publications
